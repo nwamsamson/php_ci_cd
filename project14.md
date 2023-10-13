@@ -213,7 +213,7 @@ pipeline {
 
 ```
 
-![alt text](./images/parameters.PNG)
+![alt text](./images/parametersPNG.PNG)
 
 
 ## CI/CD PIPELINE FOR TODO APPLICATION
@@ -229,7 +229,7 @@ On our jenkins server, install git and then pull our php-todo application into o
 ```
 https://github.com/darey-devops/php-todo.git
 ```
-![alt text](./images/phptodo.PNG)
+![alt text](./images/php-todo.PNG)
 
 ![alt text](./images/2repo.PNG)
 
@@ -377,7 +377,7 @@ After the ansible pipeline is complete, access sonarqube on the browser '<sonarq
 - To generate authentication token in SonarQube to to: User > My Account > Security > Generate Tokens
 
 
-![alt text](./images/sonarscaner.PNG)
+![alt text](./images/sonarscanner.PNG)
 
 ![alt text](./images/sonarqube-configuration.PNG)
 
